@@ -1,0 +1,6 @@
+C:\Users\xrafa\source\repos\RafaServico\Module\bin\Debug\Module.dll
+C:\Users\xrafa\source\repos\RafaServico\Module\bin\Debug\Module.pdb
+C:\Users\xrafa\source\repos\RafaServico\Module\obj\Debug\Module.csproj.AssemblyReference.cache
+C:\Users\xrafa\source\repos\RafaServico\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
+C:\Users\xrafa\source\repos\RafaServico\Module\obj\Debug\Module.dll
+C:\Users\xrafa\source\repos\RafaServico\Module\obj\Debug\Module.pdb

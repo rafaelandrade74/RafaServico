@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd817b33-2ffd-437a-8976-b99b091fe4d3": {
+      "ProjectGuid": "cd817b33-2ffd-437a-8976-b99b091fe4d3",
+      "DisplayName": "RafaServico",
+      "ColorIndex": 0
+    },
+    "0365f494-8a5d-4a93-a6a1-8275164e8580": {
+      "ProjectGuid": "0365f494-8a5d-4a93-a6a1-8275164e8580",
+      "DisplayName": "Hello_moduleSR",
+      "ColorIndex": 1
+    },
+    "cf5fdc06-1f26-4f6e-a0e6-b4d06dd864e2": {
+      "ProjectGuid": "cf5fdc06-1f26-4f6e-a0e6-b4d06dd864e2",
+      "DisplayName": "Module",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "4e7b17a5-2ca6-429a-933a-3880dc4bb3c4": {
+      "ProjectGuid": "4e7b17a5-2ca6-429a-933a-3880dc4bb3c4",
+      "DisplayName": "Teste_moduleSR",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

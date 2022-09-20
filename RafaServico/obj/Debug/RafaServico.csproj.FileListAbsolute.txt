@@ -1,0 +1,11 @@
+C:\Users\xrafa\source\repos\RafaServico\RafaServico\bin\Debug\RafaServico.exe.config
+C:\Users\xrafa\source\repos\RafaServico\RafaServico\bin\Debug\RafaServico.exe
+C:\Users\xrafa\source\repos\RafaServico\RafaServico\bin\Debug\RafaServico.pdb
+C:\Users\xrafa\source\repos\RafaServico\RafaServico\obj\Debug\RafaServico.csproj.SuggestedBindingRedirects.cache
+C:\Users\xrafa\source\repos\RafaServico\RafaServico\obj\Debug\RafaServico.csproj.CoreCompileInputs.cache
+C:\Users\xrafa\source\repos\RafaServico\RafaServico\obj\Debug\RafaServico.exe
+C:\Users\xrafa\source\repos\RafaServico\RafaServico\obj\Debug\RafaServico.pdb
+C:\Users\xrafa\source\repos\RafaServico\RafaServico\bin\Debug\Module.dll
+C:\Users\xrafa\source\repos\RafaServico\RafaServico\bin\Debug\Module.pdb
+C:\Users\xrafa\source\repos\RafaServico\RafaServico\obj\Debug\RafaServico.csproj.AssemblyReference.cache
+C:\Users\xrafa\source\repos\RafaServico\RafaServico\obj\Debug\RafaServico.csproj.CopyComplete

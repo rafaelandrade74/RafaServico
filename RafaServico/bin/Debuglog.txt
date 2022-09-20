@@ -1,0 +1,2 @@
+Valor não pode ser nulo.
+Nome do parâmetro: type

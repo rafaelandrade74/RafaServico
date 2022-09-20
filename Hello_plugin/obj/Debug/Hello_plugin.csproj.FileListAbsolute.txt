@@ -1,0 +1,10 @@
+C:\Users\xrafa\source\repos\RafaServico\Hello_plugin\bin\Debug\Hello_plugin.dll
+C:\Users\xrafa\source\repos\RafaServico\Hello_plugin\bin\Debug\Hello_plugin.pdb
+C:\Users\xrafa\source\repos\RafaServico\Hello_plugin\bin\Debug\RafaServico.exe
+C:\Users\xrafa\source\repos\RafaServico\Hello_plugin\bin\Debug\RafaServico.pdb
+C:\Users\xrafa\source\repos\RafaServico\Hello_plugin\bin\Debug\RafaServico.exe.config
+C:\Users\xrafa\source\repos\RafaServico\Hello_plugin\obj\Debug\Hello_plugin.csproj.AssemblyReference.cache
+C:\Users\xrafa\source\repos\RafaServico\Hello_plugin\obj\Debug\Hello_plugin.csproj.CoreCompileInputs.cache
+C:\Users\xrafa\source\repos\RafaServico\Hello_plugin\obj\Debug\Hello_plugin.csproj.CopyComplete
+C:\Users\xrafa\source\repos\RafaServico\Hello_plugin\obj\Debug\Hello_plugin.dll
+C:\Users\xrafa\source\repos\RafaServico\Hello_plugin\obj\Debug\Hello_plugin.pdb

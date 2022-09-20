@@ -1,0 +1,9 @@
+C:\Users\xrafa\source\repos\RafaServico\Teste_moduleSR\bin\Debug\Teste_moduleSR.dll
+C:\Users\xrafa\source\repos\RafaServico\Teste_moduleSR\bin\Debug\Teste_moduleSR.pdb
+C:\Users\xrafa\source\repos\RafaServico\Teste_moduleSR\bin\Debug\Module.dll
+C:\Users\xrafa\source\repos\RafaServico\Teste_moduleSR\bin\Debug\Module.pdb
+C:\Users\xrafa\source\repos\RafaServico\Teste_moduleSR\obj\Debug\Teste_moduleSR.csproj.AssemblyReference.cache
+C:\Users\xrafa\source\repos\RafaServico\Teste_moduleSR\obj\Debug\Teste_moduleSR.csproj.CoreCompileInputs.cache
+C:\Users\xrafa\source\repos\RafaServico\Teste_moduleSR\obj\Debug\Teste_moduleSR.csproj.CopyComplete
+C:\Users\xrafa\source\repos\RafaServico\Teste_moduleSR\obj\Debug\Teste_moduleSR.dll
+C:\Users\xrafa\source\repos\RafaServico\Teste_moduleSR\obj\Debug\Teste_moduleSR.pdb
